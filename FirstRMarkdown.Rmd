@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 Making an alteration here
+Making another stunning alteration
 ```{r cars}
 summary(cars)
 ```
